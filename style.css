@@ -31,18 +31,6 @@ body {
 .bg3 {
     animation-duration:5s;
 }
- 
-.content {
-    border-radius:.25em;
-    box-shadow:0 0 .25em rgba(0,0,0,.25);
-    box-sizing:border-box;
-    left:50%;
-    padding:10vmin;
-    position:fixed;
-    text-align:center;
-    top:50%;
-    transform:translate(-50%, -50%);
-}
 
 .footer {
     height: 2.5rem;
